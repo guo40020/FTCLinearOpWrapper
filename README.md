@@ -1,5 +1,5 @@
 # FTCLinearOpWrapper
 Enable Functional Programming with this wrapper!
 # Getting Started!
-`public YourOpMode extends wrapper`  
+`public class YourOpMode extends wrapper`  
 and ENJOY!
